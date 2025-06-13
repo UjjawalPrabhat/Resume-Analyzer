@@ -1,24 +1,31 @@
-Resume Keyword Analyzer
+# Resume Keyword Analyzer
 
-Description:
-The Resume Keyword Analyzer helps job seekers optimize their resumes by comparing them with job-specific keywords. Upload your resume, input job keywords, and get a detailed analysis of matched and missing keywords to improve your resume. The app supports dark mode for a better user experience.
+The **Resume Keyword Analyzer** helps job seekers optimize their resumes by comparing them with job-specific keywords. This tool highlights matched and missing keywords, enabling users to tailor their resumes for better visibility in applicant tracking systems (ATS).
 
-Features:
-Upload resumes in .pdf, .doc, .docx, and .txt formats.
-Enter job-specific keywords and get a match percentage.
-View matched and missing keywords.
-Dark mode toggle.
-Export analysis as a .txt file.
+---
 
-Technologies:
-Frontend: HTML, CSS, JavaScript
+## ✨ Features
 
-Usage:
-Upload your resume by dragging and dropping or selecting a file.
-Enter job keywords (separated by commas).
-Click "Analyze Resume" to see the results.
-Toggle Dark Mode using the button.
-Export analysis to a .txt file.
+- 📄 **Resume Upload**: Supports `.pdf`, `.doc`, `.docx`, and `.txt` formats.
+- 🧠 **Keyword Matching**: Enter job-specific keywords and see which ones are present or missing.
+- 📊 **Match Percentage**: Get a clear percentage of keyword matches.
+- 🌙 **Dark Mode**: Toggle between light and dark themes for a better user experience.
+- 📤 **Export Results**: Download your analysis as a `.txt` file for future reference.
 
-Contributing:
-Feel free to fork the repository, make changes, and submit a pull request.
+---
+
+## 🔧 Technologies Used
+
+- **Frontend**:  
+  - HTML  
+  - CSS  
+  - JavaScript
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/resume-keyword-analyzer.git
+   cd resume-keyword-analyzer
